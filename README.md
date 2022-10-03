@@ -1,5 +1,9 @@
 # DALL·E Mini
 
+<p>
+<a href="https://console.tiyaro.ai/explore?q=dalle-mini/dalle-m&pub=dalle-min"> <img src="https://tiyaro-public-docs.s3.us-west-2.amazonaws.com/assets/try_on_tiyaro_badge.svg"></a>
+</p>
+
 <a href="https://www.craiyon.com/"><img src="https://www.craiyon.com/thumbnail.png" width="300"></a>
 
 ## How to use it?
